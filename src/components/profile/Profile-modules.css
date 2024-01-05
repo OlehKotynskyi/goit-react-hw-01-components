@@ -1,0 +1,21 @@
+.description {
+   max-width: 250px;
+   text-align: center;
+   margin: 0 auto;
+   font-size: 16px;
+}
+
+.description img {
+   width: 100%;
+   height: auto;
+   display: block;
+}
+
+.profile{
+   display: flex;
+   justify-content: center;
+}
+
+.item {
+   display: flex;
+}
